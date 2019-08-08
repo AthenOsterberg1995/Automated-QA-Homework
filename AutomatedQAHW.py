@@ -1,3 +1,5 @@
+#My helpful reference for understanding selenium:
+#https://www.simplifiedpython.net/python-browser-automation/
 #selenium is the autometed testing framework
 from selenium import webdriver
 
